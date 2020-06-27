@@ -1,4 +1,4 @@
-# Multi-Year Stock Analysis
+# Multi-Year Market Analysis
 
 Stock analysis for market data from 2014-2016. 
 Summary table includes yearly amount and percent changes as well as total stock volume.
